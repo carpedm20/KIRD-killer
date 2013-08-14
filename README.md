@@ -3,7 +3,7 @@
 
 This is a C# program for bypassing KIRD video courses, especially '연구실 안전교육(http://goo.gl/gMjfqC)'.
 
-This program is also known for Mozo killer.
+This program is also called 'Mozo killer(모조 킬러)'.
 
 KIRD killer is supported by HeXA.
 
