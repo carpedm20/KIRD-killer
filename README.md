@@ -1,6 +1,9 @@
  KIRD killer
 =============
 
+
+![alt tag](http://4.bp.blogspot.com/-HDttxAGO4Z4/UpfVWilKhuI/AAAAAAAAB6Q/tIW3nqQCSpw/s1600/mozoKiller.png)
+
 This is a C# program for bypassing KIRD video courses, especially '연구실 안전교육(http://goo.gl/gMjfqC)'.
 
 This program is also called 'Mozo killer(모조 킬러)'.
